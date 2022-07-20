@@ -1,12 +1,20 @@
 @extends('layouts.app')
 
+
+@push('styles')
+    <style>
+        body {
+            color: #fbfbfbfe;
+        }
+    </style>
+@endpush
 @section('content')
 
     <body style="background-color: white">
         <div class="container">
 
             <div class="box">
-                
+
                 <center>
                     <h3><strong>SEJARAH FTE</h3></strong>
                 </center>
