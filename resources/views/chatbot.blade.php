@@ -96,8 +96,8 @@
                                 <li>Virtual Tour Telkom</li>
                                 <li>Nama Dosen</li>
                                 <li>NIP Dosen</li>
-                                <li>Nama Dosen Wali</li>
-                                <li>NIP Dosen Wali</li>
+                                <li>Kode Dosen</li>
+                                <li>Dosen Wali</li>
                                 <li>Ujian Susulan</li>
                                 <li>Alur Pengajuan Ujian Susulan</li>
                                 <li>Jadwal Kerja Praktek</li>
