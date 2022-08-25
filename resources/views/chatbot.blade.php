@@ -135,7 +135,7 @@
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script>
-        const questionBox = document.getElementById("question");
+        const questionBox = document.getElementById("question"); 
         const chatBox = document.getElementById("chatbox");
 
         const sendBtn = document.getElementById("send");
@@ -208,7 +208,7 @@
        
             <div class="col-6  answerText ms-4">
                 <div>
-                    <p class='chatSender'>Bot LAA</p>
+                    <p class='chatSender'>Admin</p>
                     <p>${formattedAnswer}</p>
                 </div>
             </div>
